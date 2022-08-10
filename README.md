@@ -2,7 +2,7 @@
 # 基本方法：
 1. 打开chrome浏览器，登录账号，找到干部网络学习，输入报名码，报名课程。
 2. 找到个人专区-干部网络学院-参学档案，复制浏览器地址栏的地址，形如：https://gbwlxy.dtdjzx.gov.cn/content#/myClass?tbtpId=3559495242979753913&title=全省宣传贯彻《反有组织犯罪法》专题网络培训班
-
+3. 自己手动做完所有随堂测试
 4. 修改main.js的源代码中相应网址为上述要学的课程网址
 5. 在Chrome中Ctrl+Shift+I,点到控制台concole界面
 6. 点击一个眼睛图标，创建活动表达式create live expression，将代码粘贴进去，然后F5刷新页面即可
